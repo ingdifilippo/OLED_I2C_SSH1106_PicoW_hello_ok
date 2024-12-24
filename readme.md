@@ -1,3 +1,5 @@
+### Schema di collegamento 
+
 Alimentazione
 
 Vcc = 39 
